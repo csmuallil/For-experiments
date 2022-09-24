@@ -19,18 +19,16 @@ PROJECT PROPOSAL
 <meta name="revised" content="28-06-2020">
 
 <link rel="icon" href="sample icon\Sample-icon.ico" type="Sample-icon.ico">
+    <h1> Adele</h1>
+  <h6> A Celebrity Among Celebrities </h6>
 
 </head>
 
 <body>
-  <h1> Adele</h1>
-  <h6> A Celebrity Among Celebrities </h6>
+  <h3> Overview</h3>
+  <p> The website will be about the famous singer Adele Adkins. It will have a homepage where you can find the overview and hyperlinks of all the subpages and what kind of content they have. These include her albums, the songs in the album, the singles, and her inspiration for the songs. These would also include her journey in her life and the music industry. </p>
 
 </html>
-  
-  COMPREHENSIVE DESCRIPTION
-  
-  Our website will be about the famous singer Adele Adkins. It will have a homepage where you can find the overview and hyperlinks of all the subpages and what kind of content they have. These include her albums, the songs in the album, the singles, and her inspiration for the songs. These would also include her journey in her life and the music industry.
   
   
   WEBSITE OUTLINE
