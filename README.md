@@ -26,12 +26,6 @@ PROJECT PROPOSAL
   <h1> Adele</h1>
   <h6> A Celebrity Among Celebrities </h6>
 
-
-  <script src="script.js"></script>
-
-  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
-</body>
-
 </html>
   
   COMPREHENSIVE DESCRIPTION
