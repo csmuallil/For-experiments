@@ -5,28 +5,7 @@ This will be used for experimenting or trying out codes before actually putting 
 
 PROJECT PROPOSAL
 
-  <html>
-
-<head>
-  <title>My First Webpage </title>
-
-<meta charset="UTF-8">
-
-<meta name="author" content="My Name">
-
-<meta name="keywords" content="HTML, CSS, JavaScript">
-
-<meta name="revised" content="28-06-2020">
-
-<link rel="icon" href="sample icon\Sample-icon.ico" type="Sample-icon.ico">
-
-</head>
-
-<body>
-  <h1> Adele</h1>
-  <h6> A Celebrity Among Celebrities </h6>
-
-</html>
+  
   
   COMPREHENSIVE DESCRIPTION
   
