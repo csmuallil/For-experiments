@@ -8,7 +8,7 @@ PROJECT PROPOSAL
   <html>
 
 <head>
-  <title>My First Webpage </title>
+ 
 
 <meta charset="UTF-8">
 
