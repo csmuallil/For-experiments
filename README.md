@@ -5,7 +5,25 @@ This will be used for experimenting or trying out codes before actually putting 
 
 PROJECT PROPOSAL
 
+  <html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <h1>Adele
+   <h6>A Celebrity Among Celebrities</h6>
+  </h1>
+ 
+</head>
+
+<body>
+  <h3> Overview</h3>
   
+  <p>The website will be about the famous singer Adele Adkins. It will have a homepage where you can find the overview and hyperlinks of all the subpages and what kind of content they have. These include her albums, the songs in the album, the singles, and her inspiration for the songs. These would also include her journey in her life and the music industry.
+</body>
+
+</html>
   
   COMPREHENSIVE DESCRIPTION
   
