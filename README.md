@@ -3,8 +3,6 @@ This will be used for experimenting or trying out codes before actually putting 
 
 # RbMuallilMarte
 
-PROJECT PROPOSAL
-
   <html>
 
 <head>
